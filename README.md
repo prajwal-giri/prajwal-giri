@@ -13,7 +13,7 @@ A full-stack .NET developer.
 [![](https://vistr.dev/badge?repo=elfocrash.elfocrash&corners=round&color=fa8072&leftcolor=87CEEB)](https://github.com/Elfocrash/vistr.dev)
 
 <a href="https://www.facebook.com/profile.php?id=100075567614306">
-<img align="left" alt="Samir Dahal | Facebook" width="21px" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" />
+<img align="left" alt="Prajwal Giri | Facebook" width="21px" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" />
 </a>
 <a href="https://www.linkedin.com/in/prajwal-giri-866632229/">
 <img align="left" alt="prajwal-giri | LinkedIn" width="21px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
