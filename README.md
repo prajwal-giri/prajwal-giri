@@ -3,7 +3,6 @@
 A full-stack .NET developer.
 
 - 🔭 I’m currently working on my Crystal Solution.
-- 🌱 I’m currently learning Python and Django.
 - 💬 Ask me about anything [here](https://github.com/prajwal-giri)
 
 <br/>
