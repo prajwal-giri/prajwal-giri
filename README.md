@@ -36,7 +36,7 @@ A full-stack .NET developer.
 <p >
 
 <a href="https://github.com/prajwal-giri">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwal-giri&show_icons=true&include_all_commits=true&hide=contribs&count_public=true&line_height=32" alt="Prajwal's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwal-giri&show_icons=true&include_all_commits=false&hide=contribs&count_public=true&line_height=32" alt="Prajwal's GitHub Stats" />
 </a>
 
 <a href="https://github.com/prajwal-giri">
