@@ -2,7 +2,7 @@
 
 A full-stack .NET developer.
 
-- 🔭 I’m currently working on my Crystal Solution.
+- 🔭 I’m currently working on Crystal Solution.
 - 💬 Ask me about anything [here](https://github.com/prajwal-giri)
 
 <br/>
