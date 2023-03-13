@@ -1,6 +1,6 @@
-![MasterHead](https://iili.io/HMwkKyQ.png)
+<!-- ![MasterHead](https://iili.io/HMwkKyQ.png) -->
 <h1 align="center">Hi 👋, I'm Prajwal Giri</h1>
-<h3 align="center">A passionate full stack .NET developer from Nepal</h3>
+<h3 align="center">A passionate developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">  </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C#, Dot Net, JavaScript, HTML , CSS, Bootstrap**
+- 💬 Ask me about **JavaScript, HTML , CSS,**
 
 - 📫 How to reach me **mr100giri@gmail.com**
 
